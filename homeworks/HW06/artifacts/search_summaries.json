@@ -1,0 +1,31 @@
+{
+  "LogReg(scaled)": {
+    "best_params": {
+      "logreg__C": 1000.0
+    },
+    "best_cv_roc_auc": 0.8034448981095345
+  },
+  "DecisionTree": {
+    "best_params": {
+      "max_depth": 10,
+      "min_samples_leaf": 20
+    },
+    "best_cv_roc_auc": 0.8366688539987104
+  },
+  "RandomForest": {
+    "best_params": {
+      "max_depth": null,
+      "max_features": "sqrt",
+      "min_samples_leaf": 1
+    },
+    "best_cv_roc_auc": 0.9284931156270062
+  },
+  "HistGradientBoosting": {
+    "best_params": {
+      "learning_rate": 0.05,
+      "max_depth": null,
+      "max_leaf_nodes": 63
+    },
+    "best_cv_roc_auc": 0.9316701338860615
+  }
+}
