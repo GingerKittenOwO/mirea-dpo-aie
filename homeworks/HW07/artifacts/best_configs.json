@@ -1,0 +1,28 @@
+[
+  {
+    "dataset": "S07-hw-dataset-01.csv",
+    "method": "kmeans",
+    "parametrs": {
+      "k": 2
+    },
+    "criteria": "silhouette_score"
+  },
+  {
+    "dataset": "S07-hw-dataset-02.csv",
+    "method": "agglomerative",
+    "parametrs": {
+      "k": 2,
+      "linkage": "average"
+    },
+    "criteria": "silhouette_score"
+  },
+  {
+    "dataset": "S07-hw-dataset-03.csv",
+    "method": "agglomerative",
+    "parametrs": {
+      "k": 2,
+      "linkage": "average"
+    },
+    "criteria": "silhouette_score"
+  }
+]
