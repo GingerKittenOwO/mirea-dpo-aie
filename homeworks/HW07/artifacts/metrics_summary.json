@@ -40,7 +40,7 @@
           "davies_bouldin": 1.1603490405338497,
           "calinski_harabasz": 9427.499744196683
         },
-        "inertia": 28591.333389805346,
+        "inertia": 28591.33338980535,
         "n_clusters": 4,
         "noise_frac": 0.0
       },
@@ -68,7 +68,7 @@
           "davies_bouldin": 1.1822563058722353,
           "calinski_harabasz": 7333.387619484842
         },
-        "inertia": 23662.193600526385,
+        "inertia": 23662.19360052638,
         "n_clusters": 6,
         "noise_frac": 0.0
       },
@@ -96,7 +96,7 @@
           "davies_bouldin": 1.314180401015265,
           "calinski_harabasz": 6460.801051738207
         },
-        "inertia": 20120.383852678748,
+        "inertia": 20120.38385267875,
         "n_clusters": 8,
         "noise_frac": 0.0
       },
@@ -250,7 +250,7 @@
           "davies_bouldin": 1.061359084243461,
           "calinski_harabasz": 5356.514276205823
         },
-        "inertia": 10610.664602027582,
+        "inertia": 10610.664602027584,
         "n_clusters": 19,
         "noise_frac": 0.0
       },
@@ -264,7 +264,7 @@
           "davies_bouldin": 1.063198015945432,
           "calinski_harabasz": 5320.163181864113
         },
-        "inertia": 10172.042494147103,
+        "inertia": 10172.042494147106,
         "n_clusters": 20,
         "noise_frac": 0.0
       }
@@ -611,7 +611,7 @@
           "davies_bouldin": 1.2226592908750664,
           "calinski_harabasz": 3082.272074544635
         },
-        "inertia": 13552.94068263189,
+        "inertia": 13552.940682631892,
         "n_clusters": 3,
         "noise_frac": 0.0
       },
@@ -653,7 +653,7 @@
           "davies_bouldin": 1.159521129561412,
           "calinski_harabasz": 2571.0909314132814
         },
-        "inertia": 9201.991536113012,
+        "inertia": 9201.991536113013,
         "n_clusters": 6,
         "noise_frac": 0.0
       },
@@ -667,7 +667,7 @@
           "davies_bouldin": 1.1723338222249964,
           "calinski_harabasz": 2453.500966352129
         },
-        "inertia": 8445.5560935553,
+        "inertia": 8445.556093555302,
         "n_clusters": 7,
         "noise_frac": 0.0
       },
@@ -681,7 +681,7 @@
           "davies_bouldin": 1.1001780140666457,
           "calinski_harabasz": 2408.5165874822683
         },
-        "inertia": 7718.175646546105,
+        "inertia": 7718.175646546104,
         "n_clusters": 8,
         "noise_frac": 0.0
       },
@@ -723,7 +723,7 @@
           "davies_bouldin": 1.0251148491223139,
           "calinski_harabasz": 2361.2009165252757
         },
-        "inertia": 6067.528490468212,
+        "inertia": 6067.528490468211,
         "n_clusters": 11,
         "noise_frac": 0.0
       },
@@ -779,7 +779,7 @@
           "davies_bouldin": 0.9664375751377642,
           "calinski_harabasz": 2300.2675467474764
         },
-        "inertia": 4768.547246296988,
+        "inertia": 4768.547246296987,
         "n_clusters": 15,
         "noise_frac": 0.0
       },
@@ -821,7 +821,7 @@
           "davies_bouldin": 0.959660863454173,
           "calinski_harabasz": 2275.3837173957195
         },
-        "inertia": 4105.305105156334,
+        "inertia": 4105.305105156335,
         "n_clusters": 18,
         "noise_frac": 0.0
       },
@@ -835,7 +835,7 @@
           "davies_bouldin": 0.9679402592758775,
           "calinski_harabasz": 2267.8764590641267
         },
-        "inertia": 3924.919217132717,
+        "inertia": 3924.9192171327168,
         "n_clusters": 19,
         "noise_frac": 0.0
       },
@@ -2051,7 +2051,7 @@
           "davies_bouldin": 1.1407688365074904,
           "calinski_harabasz": 6097.475389176514
         },
-        "inertia": 19780.45723270197,
+        "inertia": 19780.457232701974,
         "n_clusters": 6,
         "noise_frac": 0.0
       },
@@ -2079,7 +2079,7 @@
           "davies_bouldin": 1.1472308916005955,
           "calinski_harabasz": 5630.838100907985
         },
-        "inertia": 16532.946561013254,
+        "inertia": 16532.94656101325,
         "n_clusters": 8,
         "noise_frac": 0.0
       },
@@ -2247,7 +2247,7 @@
           "davies_bouldin": 1.1404883387112263,
           "calinski_harabasz": 4358.404493985511
         },
-        "inertia": 9191.177712863366,
+        "inertia": 9191.177712863368,
         "n_clusters": 20,
         "noise_frac": 0.0
       }

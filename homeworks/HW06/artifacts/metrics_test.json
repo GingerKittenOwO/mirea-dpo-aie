@@ -1,34 +1,29 @@
 {
-  "results": [
-    {
+  "results": {
+    "HistGradientBoosting": {
       "accuracy": 0.9052777777777777,
       "f1": 0.802547770700637,
-      "roc_auc": 0.9312444324873704,
-      "model": "HistGradientBoosting"
+      "roc_auc": 0.9312444324873704
     },
-    {
+    "RandomForest": {
       "accuracy": 0.8919444444444444,
       "f1": 0.7600246761258482,
-      "roc_auc": 0.9286862164828267,
-      "model": "RandomForest"
+      "roc_auc": 0.9286862164828267
     },
-    {
+    "DecisionTree": {
       "accuracy": 0.8336111111111111,
       "f1": 0.6515415939499709,
-      "roc_auc": 0.8373517073705398,
-      "model": "DecisionTree"
+      "roc_auc": 0.8373517073705398
     },
-    {
+    "LogisticRegression": {
       "accuracy": 0.8119444444444445,
       "f1": 0.5606748864373783,
-      "roc_auc": 0.7976942775436185,
-      "model": "LogisticRegression"
+      "roc_auc": 0.7976942775436185
     },
-    {
+    "DummyClassifier": {
       "accuracy": 0.7375,
       "f1": 0.0,
-      "roc_auc": 0.5,
-      "model": "DummyClassifier"
+      "roc_auc": 0.5
     }
-  ]
+  }
 }
