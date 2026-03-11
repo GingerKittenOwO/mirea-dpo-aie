@@ -1,0 +1,8 @@
+,experiment_id,dataset,seed,model_summary,optimizer,lr,momentum,weight_decay,epochs_trained,best_val_accuracy,best_val_loss
+0,E1,EMNIST,42,"base; hidden sizes = (256, 128); activation = ReLU",Adam,0.001,0,0,15,0.759,0.7597316603660583
+1,E2,EMNIST,42,"Dropout = 0.3; hidden sizes = (256, 128); activation = ReLU",Adam,0.001,0,0,15,0.754,0.7567496237754822
+2,E3,EMNIST,42,"BatchNorm; hidden sizes = (256, 128); activation = ReLU",Adam,0.001,0,0,15,0.777,0.7146152310371399
+3,E4,EMNIST,42,"EarlyStopping + E3; hidden sizes = (256, 128); activation = ReLU",Adam,0.001,0,0,13,0.777,0.7146152310371399
+4,O1,EMNIST,42,"E4 with lr = 1e-1; hidden sizes = (256, 128); activation = ReLU",Adam,0.5,0,0,6,0.342,2.1700587615966795
+5,O2,EMNIST,42,"E4 with lr = 1e-5; hidden sizes = (256, 128); activation = ReLU",Adam,1e-05,0,0,6,0.2595,3.237428728103638
+6,O3,EMNIST,42,"E4 with SGD Optimizer; hidden sizes = (256, 128); activation = ReLU",SGD,0.001,0.9,0.0001,15,0.707,1.1448684406280518
