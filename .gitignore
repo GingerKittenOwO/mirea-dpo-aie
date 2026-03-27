@@ -57,5 +57,10 @@ logs/
 *.old
 
 
+*/HW10-11/data/
+*/stl10_binary/
+*/VOCdevkit/
+stl10_binary
 *ubyte
-*.zip
+*.tar.gz
+gzip.zip
