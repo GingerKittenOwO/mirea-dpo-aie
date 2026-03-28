@@ -1,0 +1,23 @@
+{
+    "task": "forecasting",
+    "dataset": "S12-hw-dataset.csv",
+    "seed": 42,
+    "split_summary": "70/15/15 temporal split",
+    "window_size": 96,
+    "horizon": 1,
+    "model_summary": "GRU модель",
+    "features_summary": "date",
+    "scaler": "scaler.fit_transform на target",
+    "optimizer": "Adam",
+    "lr": 0.0005,
+    "epochs_trained": 30,
+    "best_val_mae": 4.948047637939453,
+    "best_val_rmse": 6.443150975146042,
+    "best_val_mape": 3.3222391605377197,
+    "test_mae": 5.569043159484863,
+    "test_rmse": 7.197488760109619,
+    "test_mape": 3.5820186138153076,
+    "notes": "The Best model",
+    "hidden_size": 64,
+    "batch_size": 64
+}

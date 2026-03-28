@@ -57,7 +57,7 @@
 
 ### Если выбран detection track
 
-- Модель: FasterRCNN_ResNet50_FPN_V2
+- Модель: `FasterRCNN_ResNet50_FPN_V2`
 - V1: `score_threshold = 0.3`
 - V2: `score_threshold = 0.7`
 - Как считался IoU: `Жадный мэтчинг, средний IoU по матчам`

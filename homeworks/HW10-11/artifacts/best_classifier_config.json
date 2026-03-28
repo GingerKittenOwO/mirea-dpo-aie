@@ -1,6 +1,6 @@
 {
     "task": "classification",
-    "dataset": "SLT10",
+    "dataset": "STL10",
     "seed": 42,
     "model_summary": "ResNet18 + FineTunning",
     "optimizer": "Adam",
