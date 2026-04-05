@@ -1,0 +1,11 @@
+,text,true_label,pred_label,confidence
+0,im feeling rather rotten so im not very ambitious right now,sadness,sadness,0.9996577501296997
+1,im updating my blog because i feel shitty,sadness,sadness,0.9996799826622009
+2,i never make her separate from me because i don t ever want her to feel like i m ashamed with her,sadness,sadness,0.9995249509811401
+3,i left with my bouquet of red and yellow tulips under my arm feeling slightly more optimistic than when i arrived,joy,joy,0.9996068477630615
+4,i was feeling a little vain when i did this one,sadness,sadness,0.9996457695960999
+5,i cant walk into a shop anywhere where i do not feel uncomfortable,fear,fear,0.99898362159729
+6,i felt anger when at the end of a telephone call,anger,anger,0.9987016320228577
+7,i explain why i clung to a relationship with a boy who was in many ways immature and uncommitted despite the excitement i should have been feeling for getting accepted into the masters program at the university of virginia,joy,love,0.5952720642089844
+8,i like to have the same breathless feeling as a reader eager to see what will happen next,joy,joy,0.9995118975639343
+9,i jest i feel grumpy tired and pre menstrual which i probably am but then again its only been a week and im about as fit as a walrus on vacation for the summer,anger,anger,0.9993934631347656
