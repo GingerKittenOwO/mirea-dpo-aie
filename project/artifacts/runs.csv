@@ -1,0 +1,4 @@
+experiment_id,task,dataset,seed,model_summary,optimizer,lr,epochs_trained,best_val_accuracy,test_accuracy,precision,recall,notes
+S1,classification,TrashNet,42,base CNN; Trainable params: 5110598,Adam,0.001,12,0.7193675889328063,,,,Baseline model
+R1,classification,TrashNet,42,Resnet18-head-only; Trainable params: 3078,Adam,0.001,4,0.7035573122529645,,,,very stong model
+R2,classification,TrashNet,42,ResNet18-finetune; Trainable params: 8396806,Adam,0.001,8,0.9367588932806324,0.9110903143882751,0.9235457181930542,0.9110903143882751,The best model
